@@ -1,0 +1,13 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LT_PA_AutoName"
+        mc:Ignorable="d"
+        Title="Pickups and Alias Auto Naming" Height="90" Width="270" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="autoNameBtn" Content="Auto Name!" HorizontalAlignment="Left" Height="29" Margin="161,21,0,0" VerticalAlignment="Top" Width="91"/>
+
+    </Grid>
+</Window>
